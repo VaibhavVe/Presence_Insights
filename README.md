@@ -39,4 +39,4 @@ Visualizations: Cards, Line Charts, Tables
 Slicers: Dynamic filtering by month
 
 🖼️ Screenshot
-Presence Insights Overview (Screenshot(17).png)
+[Presence Insights Overview](Screenshot(17).png)
