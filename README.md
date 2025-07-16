@@ -1,42 +1,50 @@
-📊 Presence Insights Dashboard – Power BI
-This Power BI report provides employee presence analytics based on Excel attendance data. It helps organizations track trends in:
+🧍‍♂️ Presence Insights – Power BI Project
+This is an employee presence tracking dashboard built using Power BI Desktop and powered by Excel data. It helps analyze attendance patterns over time, including work-from-home and sick leave trends, to provide deeper insights into employee availability.
 
-🟢 % of Attendance
+📊 Key Features
+🟢 % of Attendance for all employees
 
-🏠 % of Work From Home (WFH)
+🏠 % Work From Home (WFH) trends and averages
 
-🚑 % of Sick Leave
+🤒 % Sick Leave statistics over time
 
-🧾 What It Shows
-Overall presence summary with KPIs
+📈 Monthly trends across April, May, and June 2022
 
-Monthly trends for attendance, WFH, and sick leave (Apr 2022 to Jun 2022)
+📅 Weekday Breakdown (Mon to Fri) of presence stats
 
-Daily insights grouped by weekday
+👥 Employee-Level Detail with daily logs
 
-Individual employee data for each day
-
-Slicers for month-wise filtering
-
-📁 Project Files
-plaintext
+📁 Files Included
+bash
 Copy
 Edit
-/Presence-Insights
-├── Presence Insights.pbix           # Power BI report file
-├── attendance_data.xlsx             # Source Excel data
-├── Screenshot(17).png               # Dashboard screenshot
-└── README.md                        # Project description
-🛠️ Features Used
-Excel data source: Clean and structured attendance logs
+Presence-Insights/
+├── PresenceInsights.pbix       # Power BI dashboard file
+├── attendance_data.xlsx        # Excel sheet with presence records
+├── Screenshot(17).png          # Dashboard preview screenshot
+└── README.md                   # Project documentation
+📷 Screenshot
 
-Power Query: Filtering, cleaning, transforming
+![Presence Insight Dashboard Screenshot](Screenshot(17).png)
 
-DAX measures: % Present, % WFH, % Sick
+🛠 Built With
+Power BI Desktop
 
-Visualizations: Cards, Line Charts, Tables
+DAX (Data Analysis Expressions)
 
-Slicers: Dynamic filtering by month
+Excel as the primary data source
 
-🖼️ Screenshot
-[Presence Insights Overview](Screenshot(17).png)
+🧩 Power BI Features Used
+✅ Custom DAX Measures for % Present, % WFH, % Sick
+
+✅ Slicers for month filtering (April, May, June 2022)
+
+✅ Line Charts to visualize trends over time
+
+✅ Table Visuals for employee-level data with conditional formatting
+
+✅ Card Visuals for high-level KPIs
+
+✅ Weekday grouping for comparative insights
+
+✅ Power Query transformations from multiple Excel sheets
