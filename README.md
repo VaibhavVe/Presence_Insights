@@ -1,4 +1,4 @@
-🧍‍♂️ Presence Insights – Power BI Project
+🧍‍♂️  Power BI Dashboard – Employee Presence & Attendance Insights
 This is an employee presence tracking dashboard built using Power BI Desktop and powered by Excel data. It helps analyze attendance patterns over time, including work-from-home and sick leave trends, to provide deeper insights into employee availability.
 
 📊 Key Features
